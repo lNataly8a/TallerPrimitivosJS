@@ -1,4 +1,5 @@
 // Ejercicio 1
+
 const promp = require("prompt-sync")();
 
 let numero1
